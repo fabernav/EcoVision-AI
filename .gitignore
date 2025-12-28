@@ -1,0 +1,19 @@
+# Ignorar ambiente virtual
+venv/
+.env
+
+# Ignorar arquivos do Streamlit
+.streamlit/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar fotos de teste que você não quer subir
+*.jpg
+*.png
+*.jpeg
